@@ -1,1 +1,1 @@
-idii
+console.log("this my dotfiles")
